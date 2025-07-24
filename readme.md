@@ -115,8 +115,8 @@ Project ini dibuat untuk submission Backend VocaGames.
 ## 👨‍💻 Author
 
 **Dimas Mulya**
-- Email: [your-email@example.com]
-- GitHub: [@your-username]
+- Email: dimas230220020@gmail.com
+- GitHub: dimasmuly
 
 ## 📞 Support
 
